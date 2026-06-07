@@ -1,7 +1,7 @@
 ---
 name: expo-mobile-ui
-description: Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, adapt, animate, colorize, extract, or otherwise improve an iOS or Android app built with Expo or React Native. Covers mobile screens, navigation headers, tab bars, sheet/modal flows, onboarding, gestural interactions, haptic design, safe area layout, mobile typography, and high-performance lists. Handles platform-aware visual consistency (Apple Human Interface Guidelines vs Material Design 3), mobile-first spacing (8-point grid), device-appropriate color contrast, fluid micro-interactions, haptic tactile response mapping, and emotional design (Peak-End rule). Also use when the user wants to audit UX usability, map user journeys, apply cognitive design laws (Fitts's, Hick's, Miller's), extract and convert a Figma design or screenshot into Expo-native styles, generate and enforce design system tokens, or apply industry-specific design conventions (fintech, wellness, crypto, education, fitness, media, productivity). Even if the user just says "design this screen" or "make this flow feel premium," use this skill.
-version: 1.0.0
+description: Use for designing, auditing, polishing, or implementing Expo/React Native mobile UI and UX across iOS and Android. Covers screens, navigation, tabs, modals, onboarding, safe areas, typography, gestures, haptics, lists, accessibility, platform conventions, design tokens, Figma/screenshot conversion, and industry-specific mobile patterns.
+version: 1.0.1
 user-invocable: true
 argument-hint: "[init|teach|craft|shape|polish|gesture|haptic|nav|safe-zone|performance|delight|platform|ux|figma|industry|tokens] [target]"
 ---
